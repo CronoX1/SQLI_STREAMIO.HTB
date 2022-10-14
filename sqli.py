@@ -1,7 +1,7 @@
 import os
 import string
 
-letras = list(string.ascii_lowercase)
+letras = ['a', 'b' ,'c', 'd', 'e', 'f']
 numeros = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 all = letras + numeros
 letra = ''
